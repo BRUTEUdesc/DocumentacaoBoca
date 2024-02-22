@@ -8,26 +8,26 @@ Esse repositório contem informações confidenciais de acesso as plataformas in
 ## Índice
 - [Ferramentas](#ferramentas)
 - [Instalação](#instalação)
-- [Criação de problemas](#criação-de-problemas)
-- [Utilização do site do BOCA](#utilização-do-boca)
+- [Criação de problemas](#criacao-de-problemas)
+- [Utilização do site do BOCA](#utilizacao-do-site-do-boca)
 - [Contato](#contato)
 - [Agradecimentos](#agradecimentos)
 
 ## Ferramentas
-BOCA Online Contest Administrator
-[Polygon](https://polygon.codeforces.com/?ccid=69d01669254ea6da746e0619031b2b34) - Plataforma para criação de problemas, gerados em um pacote de formato próprio.
-[boca-problem-builder](https://github.com/BRUTEUdesc/boca-problem-builder/tree/main) - Script utilizado para conversão de pacotes do polygon para formato do boca.
-Animeitor - Script utilizado para fazer a revelação do placar.
+- BOCA Online Contest Administrator
+- [Polygon](https://polygon.codeforces.com/?ccid=69d01669254ea6da746e0619031b2b34) - Plataforma para criação de problemas, gerados em um pacote de formato próprio.
+- [boca-problem-builder](https://github.com/BRUTEUdesc/boca-problem-builder/tree/main) - Script utilizado para conversão de pacotes do polygon para formato do boca.
+- Animeitor - Script utilizado para fazer a revelação do placar.
 
 ## Instalação
 
 Veja o guia de instalação do boca [docs/dev_setup](docs/dev_setup.md).
 
-## Criação de problemas
+## Criacao de problemas
 
 Veja o guia de criação de problemas [docs/deploy](docs/deploy.md).
 
-## Utilização do site do BOCA
+## Utilizacao do site do BOCA
 
 Veja o guia de uso do site do BOCA [docs/deploy](docs/deploy.md).
 
