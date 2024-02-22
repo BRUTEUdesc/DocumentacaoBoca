@@ -1,4 +1,4 @@
-# DocumentacaoBoca
+# Documentacão do BOCA
 Documentação do Boca e ferramentas auxiliares utilizadas pelo BRUTE para a criação de contests locais.
 
 ## ⚠️ Warning ⚠️
