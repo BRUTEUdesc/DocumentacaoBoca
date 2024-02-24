@@ -1,10 +1,6 @@
 # Documentacão do BOCA
 Documentação do Boca e ferramentas auxiliares utilizadas pelo BRUTE para a criação de contests locais.
 
-## ⚠️ Warning ⚠️
-
-Esse repositório contem informações confidenciais de acesso as plataformas internas.
-
 ## Índice
 - [Ferramentas](#ferramentas)
 - [Instalação](#instalação)
@@ -18,6 +14,7 @@ Esse repositório contem informações confidenciais de acesso as plataformas in
 - [Polygon](https://polygon.codeforces.com/?ccid=69d01669254ea6da746e0619031b2b34) - Plataforma para criação de problemas, gerados em um pacote de formato próprio.
 - [boca-problem-builder](https://github.com/BRUTEUdesc/boca-problem-builder/tree/main) - Script utilizado para conversão de pacotes do polygon para formato do boca.
 - Animeitor - Script utilizado para fazer a revelação do placar.
+- MaratonaLinux - Ubuntu configurado para utilização durante a competição.
 
 ## Instalação
 
@@ -29,7 +26,7 @@ Veja o guia de criação de problemas [docs/deploy](docs/deploy.md).
 
 ## Utilizacao do site do BOCA
 
-Veja o guia de uso do site do BOCA [docs/deploy](docs/deploy.md).
+Veja o guia de uso do site do BOCA [docs/UtilizacaoSite/intro.md](docs/UtilizacaoSite/intro.md).
 
 
 ## Contato
